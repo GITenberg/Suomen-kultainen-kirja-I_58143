@@ -5,12 +5,17 @@ contributor:
     agent_name: Raekallio, J.
     gutenberg_agent_id: '49789'
     url: http://www.gutenberg.org/2009/agents/49789
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wettenhovi-Aspa, Sigurd
     gutenberg_agent_id: '49788'
     url: http://www.gutenberg.org/2009/agents/49788
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58143#Suomen-kultainen-kirja-I
 gutenberg_issued: '2018-10-21'
 gutenberg_type: Text
 identifiers:
